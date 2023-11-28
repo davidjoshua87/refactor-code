@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/salt-fe-test",
+  base: "/refactor-code",
   plugins: [react()],
   resolve: {
     alias: {
