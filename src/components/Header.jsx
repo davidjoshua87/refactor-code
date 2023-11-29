@@ -33,7 +33,7 @@ function Header() {
       <div
         className={`${isSticky ? "fixed bg-gradient-to-b from-[#1BA0E1] to-[#7fbff0] text-black shadow-lg" : "relative bg-transparent text-white"} transition-all duration-300 flex w-full h-[3.75rem] items-center px-6 z-[3]`}
       >
-        <a href="/">
+        <a href="/refactor-code">
           <img src={company_profile} alt="Company Profile" className={`${isSticky ? "bg-gradient-to-b from-gray-100 to-gray-300 rounded-full shadow-lg px-1" : "bg-transparent"}`} />
         </a>
 

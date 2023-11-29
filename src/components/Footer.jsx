@@ -36,7 +36,7 @@ function Footer() {
                 onChange={(e) => setActiveLocation(e.target.value)}
                 className="w-full px-3 py-3 text-sm font-bold uppercase text-[#00537C] md:text-white bg-white outline rounded-sm outline-1 outline-gray-200 border-r-[1rem] border-transparent"
                 style={{
-                  WebkitAppearance: "none",
+                  // WebkitAppearance: "none",
                   background:
                     "url(/salt-fe-test/icon-dropdown.svg) no-repeat right",
                 }}
